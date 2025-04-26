@@ -11,7 +11,9 @@ tags: [reflexões, literatura, portugues]
 Embora a fonética (estudo da linguagem articulada) teime em jogar essas unidades no universo acústico da mensagem vocal, mesmo assim, tais expressões nos traem. Sei que a acuidade auditiva é fundamental em todos os sentidos semânticos (redundância isso aí), seja na sentença de interpretação desses sentidos ou mesmo na complexa relação entre falante e ouvinte. 
 Mas deixemos de academicismos.
 
-A realidade é mais perversa. Quando usar, então, "independentemente" e "independente"? Bom questionamento, não é mesmo?
+A realidade é mais perversa. Quando usar, então, "independentemente" e "independente"? 
+
+Bom questionamento, não é mesmo?
 
 Vamos lá. Chamo sem frescura didática.
 
