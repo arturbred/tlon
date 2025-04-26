@@ -8,6 +8,9 @@ tags: [reflexões, literatura, portugues]
 
 ## *A despeito de duas unidades do léxico português. Duas palavras plenas: "independentemente" e "independente".*
 
+![Representação gráfica, fonte: Adobe Firefly]({{ site.baseurl }}/images/Firefly faca dois rios, vista area, no sertao pernambucano, desenhado, nao faca fotografia, preto e .jpg)
+
+
 Embora a fonética (estudo da linguagem articulada) teime em jogar essas unidades no universo acústico da mensagem vocal, mesmo assim, tais expressões nos traem. Sei que a acuidade auditiva é fundamental em todos os sentidos semânticos (redundância isso aí), seja na sentença de interpretação desses sentidos ou mesmo na complexa relação entre falante e ouvinte. 
 Mas deixemos de academicismos.
 
