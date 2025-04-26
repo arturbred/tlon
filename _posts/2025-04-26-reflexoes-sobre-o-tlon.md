@@ -3,6 +3,7 @@ layout: post
 title: "Reflexões sobre o Tlon"
 date: 2025-04-26
 author: Artur Bred
+comments: true
 tags: [reflexões, literatura, Tlon]
 ---
 
