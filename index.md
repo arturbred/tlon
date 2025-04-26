@@ -1,9 +1,9 @@
 ---
 layout: home
-title: "Tlon"
+title: "Liber Genesis"
 ---
 
-# Tlon
+# Escriba
 
 > *"A realidade é, em última análise, inverossímil."* — Jorge Luis Borges
 
