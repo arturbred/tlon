@@ -3,7 +3,7 @@ layout: home
 title: "Liber Genesis"
 ---
 
-# Escriba
+## Notações do Escriba
 
 > *"A realidade é, em última análise, inverossímil."* — Jorge Luis Borges
 
