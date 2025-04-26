@@ -1,7 +1,9 @@
 ---
 layout: home
-title: "Bem-vindo"
+title: "Tlon"
+description: "Meu espaço de anotações e ideias."
 ---
-# Olá, mundo!
 
-Este é o meu site Jekyll hospedado no GitHub Pages!
+# |Notas
+
+
