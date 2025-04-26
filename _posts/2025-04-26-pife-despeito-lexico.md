@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "A despeito de duas unidades do lexico portugues"
+title: "A despeito de duas unidades do léxico português"
 date: 2025-04-26
 author: Pife
 tags: [reflexões, literatura, portugues]
@@ -27,7 +27,7 @@ O "independente" é qualidade, característica do ofício não vinculado,  é li
 
 A Joana, muita vez,  sempre diz ao Soste: "Vivo independentemente de você, seu canalha. Sou independente. Não vem, que não tem."
 
-Ainda hoje, o Soste não briga com sua Joana por dinheiro nenhum.```
+Ainda hoje, o Soste não briga com sua Joana por dinheiro nenhum.
 
 Osvaldo Epifanio
 
