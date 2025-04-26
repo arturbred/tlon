@@ -6,7 +6,7 @@ author: Artur Bred
 tags: [reflexões, literatura, Tlon]
 ---
 
-![Representação gráfica do universo de Borges, fonte: flickr](/images/tlon_image.jpg)
+![Representação gráfica do universo de Borges, fonte: flickr]({{ site.baseurl }}/images/tlon_image.jpg)
 
 ## O que é Tlon?
 
