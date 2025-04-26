@@ -7,6 +7,7 @@ tags: [reflexões, literatura, Tlon]
 ---
 
 ![Representação gráfica do universo de Borges, fonte: flickr]({{ site.baseurl }}/images/tlon_image.jpg)
+    - [Fonte](https://www.flickr.com/photos/ffranchi/306650090)
 
 ## O que é Tlon?
 
