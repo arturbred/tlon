@@ -6,6 +6,8 @@ author: Artur Bred
 tags: [reflexões, literatura, Tlon]
 ---
 
+![Representação gráfica do universo de Borges, fonte: flickr](/images/tlon_image.jpg)
+
 ## O que é Tlon?
 
 *Tlon* é um conceito que surgiu no famoso conto de Borges, onde uma realidade fictícia começa a influenciar a nossa.
