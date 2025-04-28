@@ -1,3 +1,13 @@
+---
+layout: post
+title: "Masquerade of a Dead Sword: A Tragedie"
+date: 2025-04-26
+author: Thomas Ligotti
+comments: false
+tags: [reflexões, literatura]
+---
+
+
 ## Masquerade of a Dead Sword: A Tragedie
 
  
