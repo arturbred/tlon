@@ -7,18 +7,9 @@ comments: false
 tags: [reflexões, literatura]
 ---
 
-
-## Masquerade of a Dead Sword: A Tragedie
-
- 
-
 ### When the world uncovers some dark disguise, Embrace the darkness with averted eyes. PSALMS OF THE SILENT
 
- 
-
- 
-
-I: Faliol’s Rescue
+#### I: Faliol’s Rescue
 
  
 
@@ -84,7 +75,7 @@ They were now traveling in the direction of the palace, and Soldori’s carnival
 
  
 
-II: The Story Of The Spectacles
+#### II: The Story Of The Spectacles
 
  
 
@@ -132,7 +123,7 @@ Beyond the window at the back of the two figures, something seemed to be at watc
 
  
 
-III: Anima Mundi
+#### III: Anima Mundi
 
  
 
